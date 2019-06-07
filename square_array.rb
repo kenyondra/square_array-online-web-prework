@@ -7,4 +7,4 @@ new_array
 end
 
 def new_square_array(array)
-  array.collect{
+  array.collect{x x*x}
